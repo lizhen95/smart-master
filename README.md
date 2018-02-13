@@ -4,8 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/a466350665/smart.svg?style=social&label=Stars)](https://github.com/a466350665/smart)
 [![GitHub forks](https://img.shields.io/github/forks/a466350665/smart.svg?style=social&label=Fork)](https://github.com/a466350665/smart)
 
-QQ交流群：454343484(提供开发工具和文档下载)
-
 ## 简述
     Smart定位用当下最流行的SSM（SpringMVC + Spring + Mybatis）技术，为您构建一个易理解、高可用、高扩展性的单点登录权限管理应用基层，方便实现快速开发。权限按钮级（可控制到Controller中方法）、修改实时生效（MQ广播实现）、支持分布式（Spring + Redis提供分布式Session）。
     
@@ -42,10 +40,6 @@ smart
 - 日志管理：SLF4J 1.7.21、Logback 1.1.7
 - 模板引擎：Freemarker 2.3.23
 - 单点登录：极简基于Cookie实现
-
-### 前端
-- 基础代码库：Jquery 2.1.1
-- 前端模板：Ace 1.3.3(Bootstrap) https://github.com/bopoda/ace
 
 ### 浏览器兼容
 - Internet Explorer 11
@@ -113,5 +107,3 @@ smart
 ![](http://img.blog.csdn.net/20170106172915803?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTQ2NjM1MDY2NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ![](http://img.blog.csdn.net/20170106172926694?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTQ2NjM1MDY2NQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-## 作者寄语
-艺术的做好一件你认为擅长的事情
